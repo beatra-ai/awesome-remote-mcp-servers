@@ -2589,6 +2589,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Azurade AI](https://azurade.com/developers/) `https://azurade.com/mcp`
   [![Azurade AI MCP connector](https://glama.ai/mcp/connectors/com.azurade/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.azurade/mcp)
   🔐 - Generate images and videos with Veo 3.1, Seedance 2.5, Nano Banana Pro and 30+ more models; credits never expire.
+- [Beatra](https://beatra.ai) `https://mcp.beatra.ai/mcp`
+  [![Beatra MCP connector](https://glama.ai/mcp/connectors/ai.beatra/beatra/badges/score.svg)](https://glama.ai/mcp/connectors/ai.beatra/beatra)
+  🔐 - Generate and edit AI images and video, compose music, synthesize speech, clone voices and read public social data.
 - [BulkTranscripts](https://bulktranscripts.co) `https://bulktranscripts.co/mcp`
   [![BulkTranscripts MCP connector](https://glama.ai/mcp/connectors/co.bulktranscripts/youtube/badges/score.svg)](https://glama.ai/mcp/connectors/co.bulktranscripts/youtube)
   🔐 - YouTube transcripts for one video, a whole channel or a playlist, plus search and free new-upload tracking.
